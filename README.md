@@ -1,5 +1,5 @@
 # Team Project
-
+Commit resolving in merge conflict
 initial commit to team-project-1
 
 ## Description
