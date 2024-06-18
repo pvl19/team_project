@@ -5,6 +5,8 @@ adding update for feature1 branch
 Commit resolving in merge conflict
 initial commit to team-project-1
 
+Second round commiting from feature2
+ 
 ## Description
 The team project consists of two modules. Each module requires participants to apply the skills they have learned to date, and explore a dataset of their choosing. The first part of the team project involves creating a simple program with a database in order to analyze a dataset from an open source, such as Kaggle. In the second part of the team project, teams will come together again and apply the skills developed in each of the data science or machine learning foundations certificate streams. Teams will either create a data visualization or a machine learning model.
 
