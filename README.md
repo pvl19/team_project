@@ -1,4 +1,7 @@
 # Team Project
+
+adding update for feature1 branch
+
 Commit resolving in merge conflict
 initial commit to team-project-1
 
